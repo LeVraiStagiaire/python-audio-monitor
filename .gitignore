@@ -6,4 +6,4 @@ build/
 *$py.class
 Lib/
 Scripts/
-*[!requirements.txt|*.py]
+*[!requirements.txt|*.py|!README.md]
