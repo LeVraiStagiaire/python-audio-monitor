@@ -1,0 +1,9 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+dist/
+build/
+*/__pycache__/
+*.py[cod]
+*$py.class
+Lib/
+Scripts/
+*[!requirements.txt|*.py]
